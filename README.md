@@ -84,5 +84,5 @@ A side-scrolling platformer application featuring dynamic entity collision, smoo
 Most of my GitHub activity revolves around **making and learning new projects**, continuously expanding my technical skills rather than just sticking to what I already know.
 
 * ☁️ Currently working to get my **AWS Certified Developer - Associate** certification
-* 🤖 Exploring and creating new **AI projects**, focusing on practical applications and integrations
+* 🤖 Building practical AI projects.
 * 🛠️ Discovering new cloud technologies and expanding my overall technical toolkit
